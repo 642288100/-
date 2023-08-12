@@ -31,11 +31,11 @@ This project is mainly divided into two parts:
 
    · A four-part
    
-     · Acceleration
+     ·Acceleration
      
-     ·speed
+     ·Velocity
      
-     ·high
+     ·Height
      
      ·Single-stage rocket launch problem
      
