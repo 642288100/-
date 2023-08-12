@@ -18,6 +18,14 @@ This project is mainly divided into two parts:
       ·Adams-Bashforth method
       
    · Concludes a summary and comparison of the five methods at the end
+
+   · Interpolation Methods
+
+      · Lagrange Interpolation
+
+      · Hermite Interpolation
+
+   · Numerical Integration
    
 ·The second part is about the ascent of single-stage rockets
 
