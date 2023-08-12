@@ -7,9 +7,9 @@ This project is mainly divided into two parts:
 
    · Contains a total of five numerical calculation methods
    
-      ·Display Euler's method
+      ·Explicit Euler Method
       
-      · Trapezoidal formula method
+      ·Trapezoidal formula method
       
       ·Improved Euler method
       
